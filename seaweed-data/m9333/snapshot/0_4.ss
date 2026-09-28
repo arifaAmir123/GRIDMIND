@@ -1,0 +1,2 @@
+6aa546a1
+{"lastIndex":4,"lastTerm":0,"peers":[{"name":"172.17.0.2:9333.19333","connectionString":"172.17.0.2:19333"}],"state":"eyJtYXhWb2x1bWVJZCI6MCwidG9wb2xvZ3lJZCI6IjUwMDk0YjYzLWZiZTgtNDdmMy1iNTQ5LTlkMTUwYmViNzkyOSJ9","path":"/data/m9333/snapshot/0_4.ss"}

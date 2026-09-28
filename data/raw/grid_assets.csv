@@ -1,0 +1,1001 @@
+Asset_ID,Region,Substation_ID,Asset_Type,Capacity_MW,Installation_Year,Asset_Status
+AST-0001,Central,SS-009,Transmission Line,500,1999,Operational
+AST-0002,East,SS-009,Distribution Line,50,2021,Operational
+AST-0003,West,SS-009,Distribution Line,50,2006,Operational
+AST-0004,East,SS-004,Distribution Line,25,2006,Operational
+AST-0005,West,SS-009,Distribution Line,100,2006,Operational
+AST-0006,North,SS-005,Circuit Breaker,25,2019,Operational
+AST-0007,East,SS-003,Transmission Line,50,2008,Operational
+AST-0008,South,SS-007,Transformer,25,2008,Operational
+AST-0009,East,SS-008,Transmission Line,250,2006,Operational
+AST-0010,East,SS-003,Circuit Breaker,10,1997,Operational
+AST-0011,West,SS-010,Circuit Breaker,25,2006,Degraded
+AST-0012,East,SS-003,Circuit Breaker,10,2012,Operational
+AST-0013,East,SS-001,Distribution Line,500,1999,Degraded
+AST-0014,West,SS-002,Transformer,25,1996,Operational
+AST-0015,Central,SS-004,Circuit Breaker,50,2011,Degraded
+AST-0016,North,SS-010,Transmission Line,10,1995,Operational
+AST-0017,East,SS-009,Distribution Line,500,1995,Operational
+AST-0018,South,SS-005,Distribution Line,25,2017,Operational
+AST-0019,West,SS-004,Transmission Line,100,2011,Operational
+AST-0020,South,SS-009,Transformer,100,2006,Operational
+AST-0021,South,SS-009,Transformer,10,2004,Degraded
+AST-0022,West,SS-006,Circuit Breaker,25,1997,Operational
+AST-0023,Central,SS-005,Distribution Line,100,2020,Operational
+AST-0024,Central,SS-007,Distribution Line,25,2009,Operational
+AST-0025,East,SS-009,Distribution Line,100,2008,Operational
+AST-0026,South,SS-008,Transmission Line,10,2016,Operational
+AST-0027,Central,SS-005,Transmission Line,10,2001,Operational
+AST-0028,Central,SS-003,Circuit Breaker,25,2009,Operational
+AST-0029,East,SS-006,Transmission Line,100,2017,Operational
+AST-0030,Central,SS-007,Circuit Breaker,50,2005,Operational
+AST-0031,South,SS-007,Distribution Line,500,2018,Operational
+AST-0032,East,SS-007,Transformer,500,1997,Operational
+AST-0033,Central,SS-008,Circuit Breaker,100,2006,Operational
+AST-0034,North,SS-008,Transmission Line,250,2004,Operational
+AST-0035,South,SS-002,Transformer,25,2008,Operational
+AST-0036,South,SS-007,Circuit Breaker,500,2018,Operational
+AST-0037,North,SS-004,Transmission Line,25,2013,Maintenance
+AST-0038,West,SS-003,Circuit Breaker,500,2022,Operational
+AST-0039,East,SS-008,Distribution Line,50,2014,Operational
+AST-0040,South,SS-002,Transformer,500,2017,Operational
+AST-0041,North,SS-007,Transformer,100,2018,Operational
+AST-0042,East,SS-003,Distribution Line,250,2024,Operational
+AST-0043,South,SS-001,Transmission Line,250,2000,Operational
+AST-0044,South,SS-007,Circuit Breaker,500,1998,Operational
+AST-0045,North,SS-002,Transmission Line,100,2020,Operational
+AST-0046,North,SS-006,Transformer,500,1999,Operational
+AST-0047,West,SS-010,Transmission Line,10,2018,Operational
+AST-0048,North,SS-007,Distribution Line,100,2010,Maintenance
+AST-0049,West,SS-004,Distribution Line,25,2021,Operational
+AST-0050,North,SS-004,Circuit Breaker,100,2010,Operational
+AST-0051,Central,SS-005,Distribution Line,500,2023,Operational
+AST-0052,West,SS-006,Transformer,250,2000,Operational
+AST-0053,West,SS-003,Transformer,100,2000,Operational
+AST-0054,East,SS-008,Transformer,25,2008,Operational
+AST-0055,Central,SS-007,Transmission Line,25,2015,Operational
+AST-0056,Central,SS-003,Circuit Breaker,50,2006,Operational
+AST-0057,Central,SS-002,Circuit Breaker,500,2013,Operational
+AST-0058,East,SS-007,Transformer,50,2009,Degraded
+AST-0059,West,SS-005,Circuit Breaker,250,2006,Operational
+AST-0060,South,SS-004,Circuit Breaker,250,2010,Operational
+AST-0061,East,SS-003,Transmission Line,25,1995,Operational
+AST-0062,East,SS-005,Transmission Line,500,2013,Operational
+AST-0063,East,SS-005,Transformer,250,2007,Operational
+AST-0064,North,SS-002,Circuit Breaker,500,2014,Operational
+AST-0065,West,SS-006,Distribution Line,25,1997,Operational
+AST-0066,East,SS-007,Transmission Line,100,2011,Operational
+AST-0067,North,SS-002,Transmission Line,10,2018,Operational
+AST-0068,East,SS-003,Circuit Breaker,250,2014,Operational
+AST-0069,East,SS-008,Circuit Breaker,250,2020,Operational
+AST-0070,South,SS-010,Transformer,100,2009,Maintenance
+AST-0071,Central,SS-002,Circuit Breaker,25,2021,Operational
+AST-0072,North,SS-004,Transformer,25,2012,Operational
+AST-0073,Central,SS-002,Distribution Line,250,1999,Operational
+AST-0074,Central,SS-004,Transmission Line,100,1997,Operational
+AST-0075,Central,SS-005,Circuit Breaker,50,2022,Maintenance
+AST-0076,North,SS-002,Distribution Line,25,2006,Operational
+AST-0077,West,SS-006,Distribution Line,100,1995,Operational
+AST-0078,Central,SS-009,Distribution Line,500,1999,Operational
+AST-0079,East,SS-005,Transmission Line,25,2014,Operational
+AST-0080,West,SS-005,Distribution Line,50,2000,Operational
+AST-0081,Central,SS-001,Transmission Line,100,2020,Operational
+AST-0082,Central,SS-002,Distribution Line,25,1998,Operational
+AST-0083,East,SS-009,Distribution Line,100,2013,Operational
+AST-0084,North,SS-002,Distribution Line,500,2012,Operational
+AST-0085,North,SS-001,Distribution Line,25,2017,Maintenance
+AST-0086,Central,SS-001,Circuit Breaker,500,2013,Degraded
+AST-0087,East,SS-006,Circuit Breaker,50,2024,Operational
+AST-0088,Central,SS-004,Circuit Breaker,500,2006,Operational
+AST-0089,West,SS-003,Circuit Breaker,500,1999,Operational
+AST-0090,Central,SS-008,Circuit Breaker,100,2024,Operational
+AST-0091,East,SS-002,Distribution Line,500,2021,Degraded
+AST-0092,North,SS-005,Circuit Breaker,50,2017,Operational
+AST-0093,South,SS-009,Transformer,500,2017,Operational
+AST-0094,North,SS-008,Distribution Line,25,2015,Operational
+AST-0095,Central,SS-006,Transformer,50,2024,Operational
+AST-0096,West,SS-006,Transformer,50,1998,Degraded
+AST-0097,Central,SS-006,Distribution Line,25,2007,Operational
+AST-0098,North,SS-003,Distribution Line,10,2011,Operational
+AST-0099,West,SS-006,Distribution Line,50,2002,Operational
+AST-0100,South,SS-003,Distribution Line,50,2012,Operational
+AST-0101,North,SS-003,Transformer,25,2002,Operational
+AST-0102,North,SS-008,Transformer,25,1999,Operational
+AST-0103,Central,SS-004,Transmission Line,100,2010,Operational
+AST-0104,West,SS-007,Transmission Line,250,2019,Operational
+AST-0105,West,SS-007,Transmission Line,500,2009,Operational
+AST-0106,Central,SS-010,Transmission Line,500,2015,Maintenance
+AST-0107,Central,SS-009,Circuit Breaker,25,2023,Operational
+AST-0108,East,SS-008,Transmission Line,500,2005,Operational
+AST-0109,South,SS-004,Transformer,25,2020,Operational
+AST-0110,East,SS-010,Transmission Line,250,1995,Operational
+AST-0111,West,SS-007,Transformer,250,2004,Maintenance
+AST-0112,East,SS-003,Transmission Line,50,1997,Degraded
+AST-0113,South,SS-009,Distribution Line,50,2020,Operational
+AST-0114,Central,SS-006,Distribution Line,500,2021,Operational
+AST-0115,East,SS-006,Transformer,500,2009,Operational
+AST-0116,South,SS-009,Transmission Line,10,2013,Operational
+AST-0117,South,SS-005,Distribution Line,10,2017,Operational
+AST-0118,South,SS-004,Transmission Line,500,2011,Operational
+AST-0119,South,SS-005,Distribution Line,100,2015,Operational
+AST-0120,East,SS-006,Distribution Line,500,2024,Operational
+AST-0121,West,SS-009,Transformer,100,2024,Operational
+AST-0122,West,SS-010,Transmission Line,250,2005,Operational
+AST-0123,West,SS-001,Transformer,250,2015,Operational
+AST-0124,East,SS-001,Circuit Breaker,500,2017,Operational
+AST-0125,Central,SS-006,Transformer,50,2000,Operational
+AST-0126,North,SS-007,Transmission Line,50,2002,Operational
+AST-0127,East,SS-003,Transmission Line,10,2007,Operational
+AST-0128,North,SS-009,Distribution Line,25,2006,Operational
+AST-0129,West,SS-003,Transformer,500,2002,Operational
+AST-0130,West,SS-005,Circuit Breaker,10,2006,Maintenance
+AST-0131,West,SS-010,Transmission Line,100,2000,Operational
+AST-0132,Central,SS-009,Transmission Line,50,2003,Operational
+AST-0133,South,SS-008,Transmission Line,25,2002,Operational
+AST-0134,East,SS-002,Transmission Line,10,2012,Operational
+AST-0135,North,SS-001,Transformer,250,2015,Degraded
+AST-0136,Central,SS-010,Distribution Line,500,1996,Operational
+AST-0137,North,SS-001,Transmission Line,250,2001,Operational
+AST-0138,South,SS-006,Transmission Line,25,1996,Operational
+AST-0139,North,SS-005,Distribution Line,25,1998,Operational
+AST-0140,East,SS-004,Transmission Line,100,2001,Operational
+AST-0141,East,SS-008,Circuit Breaker,25,2008,Operational
+AST-0142,North,SS-009,Circuit Breaker,500,2019,Operational
+AST-0143,East,SS-009,Distribution Line,10,2008,Operational
+AST-0144,East,SS-004,Transformer,250,2015,Operational
+AST-0145,South,SS-004,Transmission Line,50,1999,Operational
+AST-0146,South,SS-009,Circuit Breaker,100,1996,Maintenance
+AST-0147,East,SS-002,Transmission Line,50,2005,Operational
+AST-0148,Central,SS-003,Distribution Line,10,2017,Operational
+AST-0149,North,SS-001,Circuit Breaker,10,1999,Operational
+AST-0150,East,SS-008,Transmission Line,100,2021,Operational
+AST-0151,North,SS-004,Transformer,250,2003,Operational
+AST-0152,West,SS-004,Transformer,10,2017,Operational
+AST-0153,North,SS-007,Transmission Line,100,2023,Maintenance
+AST-0154,Central,SS-003,Circuit Breaker,250,2003,Operational
+AST-0155,North,SS-010,Distribution Line,500,1995,Operational
+AST-0156,South,SS-010,Circuit Breaker,50,2023,Operational
+AST-0157,North,SS-001,Distribution Line,250,2023,Operational
+AST-0158,East,SS-003,Transformer,10,1996,Operational
+AST-0159,East,SS-009,Transformer,50,1999,Operational
+AST-0160,East,SS-005,Distribution Line,50,1998,Operational
+AST-0161,South,SS-003,Circuit Breaker,25,2007,Operational
+AST-0162,North,SS-002,Circuit Breaker,25,2013,Operational
+AST-0163,West,SS-002,Circuit Breaker,500,2013,Operational
+AST-0164,Central,SS-003,Circuit Breaker,250,2000,Operational
+AST-0165,South,SS-003,Transmission Line,250,1999,Operational
+AST-0166,Central,SS-009,Distribution Line,10,2000,Maintenance
+AST-0167,West,SS-001,Transformer,50,2009,Operational
+AST-0168,West,SS-009,Transformer,250,1997,Operational
+AST-0169,East,SS-010,Transformer,500,2001,Maintenance
+AST-0170,West,SS-009,Circuit Breaker,500,2022,Operational
+AST-0171,Central,SS-003,Transmission Line,500,2020,Operational
+AST-0172,West,SS-004,Circuit Breaker,10,2007,Maintenance
+AST-0173,West,SS-008,Circuit Breaker,25,1998,Operational
+AST-0174,North,SS-004,Transformer,25,2001,Maintenance
+AST-0175,North,SS-005,Transmission Line,50,1997,Operational
+AST-0176,North,SS-008,Distribution Line,100,2015,Maintenance
+AST-0177,South,SS-008,Transmission Line,50,2019,Maintenance
+AST-0178,Central,SS-009,Transmission Line,10,2012,Operational
+AST-0179,Central,SS-005,Transmission Line,10,2009,Operational
+AST-0180,East,SS-009,Distribution Line,500,2000,Operational
+AST-0181,Central,SS-005,Transmission Line,10,2001,Operational
+AST-0182,Central,SS-003,Transmission Line,25,2024,Operational
+AST-0183,South,SS-005,Transmission Line,500,2010,Operational
+AST-0184,Central,SS-002,Transformer,50,2024,Degraded
+AST-0185,North,SS-005,Distribution Line,250,1996,Operational
+AST-0186,East,SS-010,Transformer,500,2014,Operational
+AST-0187,North,SS-003,Circuit Breaker,100,2004,Operational
+AST-0188,East,SS-005,Transmission Line,10,2004,Operational
+AST-0189,South,SS-007,Distribution Line,500,2001,Operational
+AST-0190,North,SS-009,Transformer,500,2023,Operational
+AST-0191,West,SS-001,Distribution Line,250,2011,Operational
+AST-0192,East,SS-009,Circuit Breaker,250,2000,Operational
+AST-0193,West,SS-006,Distribution Line,10,2023,Operational
+AST-0194,Central,SS-007,Transformer,100,2018,Operational
+AST-0195,South,SS-006,Transformer,250,2020,Operational
+AST-0196,Central,SS-008,Transformer,50,2017,Maintenance
+AST-0197,West,SS-007,Distribution Line,250,2008,Operational
+AST-0198,North,SS-002,Transmission Line,500,2013,Operational
+AST-0199,West,SS-001,Transformer,50,2000,Maintenance
+AST-0200,North,SS-005,Transmission Line,500,2011,Operational
+AST-0201,North,SS-009,Transmission Line,100,2011,Operational
+AST-0202,Central,SS-005,Transmission Line,500,2020,Operational
+AST-0203,South,SS-002,Transformer,500,1998,Operational
+AST-0204,Central,SS-010,Transformer,10,1999,Operational
+AST-0205,West,SS-009,Distribution Line,10,2010,Operational
+AST-0206,South,SS-006,Distribution Line,10,2020,Operational
+AST-0207,North,SS-002,Transmission Line,100,1997,Operational
+AST-0208,East,SS-003,Transmission Line,500,2013,Degraded
+AST-0209,South,SS-003,Circuit Breaker,25,1998,Operational
+AST-0210,East,SS-008,Transmission Line,250,2018,Maintenance
+AST-0211,North,SS-010,Transmission Line,10,2019,Maintenance
+AST-0212,North,SS-007,Transmission Line,50,2001,Degraded
+AST-0213,West,SS-005,Circuit Breaker,50,2004,Operational
+AST-0214,South,SS-010,Transformer,250,2014,Operational
+AST-0215,West,SS-001,Transmission Line,500,2007,Operational
+AST-0216,West,SS-002,Distribution Line,25,2023,Operational
+AST-0217,Central,SS-008,Circuit Breaker,500,2011,Maintenance
+AST-0218,South,SS-005,Circuit Breaker,250,2000,Operational
+AST-0219,South,SS-006,Distribution Line,500,2010,Degraded
+AST-0220,Central,SS-004,Circuit Breaker,500,2021,Operational
+AST-0221,East,SS-006,Distribution Line,500,2022,Maintenance
+AST-0222,North,SS-005,Transformer,250,2002,Operational
+AST-0223,Central,SS-010,Circuit Breaker,250,2003,Operational
+AST-0224,West,SS-004,Transformer,50,2001,Operational
+AST-0225,West,SS-008,Distribution Line,500,1995,Operational
+AST-0226,East,SS-006,Transformer,10,2014,Operational
+AST-0227,East,SS-009,Transformer,50,2005,Operational
+AST-0228,South,SS-002,Distribution Line,50,2016,Operational
+AST-0229,East,SS-003,Transmission Line,10,2000,Operational
+AST-0230,East,SS-009,Circuit Breaker,250,2015,Operational
+AST-0231,South,SS-006,Circuit Breaker,250,2004,Operational
+AST-0232,East,SS-006,Transformer,25,1996,Operational
+AST-0233,East,SS-008,Circuit Breaker,25,2005,Operational
+AST-0234,South,SS-007,Distribution Line,25,1999,Maintenance
+AST-0235,North,SS-008,Transformer,500,2012,Operational
+AST-0236,East,SS-005,Distribution Line,50,2006,Operational
+AST-0237,North,SS-005,Transmission Line,100,2004,Operational
+AST-0238,Central,SS-005,Transformer,25,1996,Operational
+AST-0239,East,SS-007,Circuit Breaker,500,2012,Operational
+AST-0240,North,SS-009,Transformer,10,1996,Operational
+AST-0241,Central,SS-005,Transformer,10,2005,Operational
+AST-0242,Central,SS-002,Distribution Line,500,2016,Operational
+AST-0243,West,SS-002,Transmission Line,500,2017,Operational
+AST-0244,East,SS-004,Distribution Line,10,1995,Operational
+AST-0245,South,SS-008,Distribution Line,500,2007,Operational
+AST-0246,West,SS-004,Transmission Line,100,2016,Maintenance
+AST-0247,South,SS-009,Circuit Breaker,500,2001,Operational
+AST-0248,South,SS-006,Transformer,25,1995,Operational
+AST-0249,South,SS-005,Transformer,25,1995,Maintenance
+AST-0250,North,SS-006,Transmission Line,100,2007,Degraded
+AST-0251,West,SS-003,Circuit Breaker,250,2006,Operational
+AST-0252,West,SS-002,Transmission Line,250,2006,Maintenance
+AST-0253,South,SS-006,Circuit Breaker,10,2001,Operational
+AST-0254,South,SS-010,Circuit Breaker,25,2001,Operational
+AST-0255,Central,SS-003,Transmission Line,500,2018,Operational
+AST-0256,South,SS-010,Transformer,250,2007,Operational
+AST-0257,South,SS-004,Transmission Line,100,2002,Operational
+AST-0258,West,SS-006,Distribution Line,50,2017,Operational
+AST-0259,North,SS-007,Transformer,10,2005,Operational
+AST-0260,Central,SS-003,Transformer,50,2022,Operational
+AST-0261,Central,SS-001,Distribution Line,25,1995,Operational
+AST-0262,South,SS-004,Transformer,50,1998,Operational
+AST-0263,Central,SS-004,Distribution Line,50,2020,Operational
+AST-0264,West,SS-007,Distribution Line,25,2014,Operational
+AST-0265,South,SS-007,Transformer,10,2002,Operational
+AST-0266,West,SS-005,Transmission Line,50,2013,Operational
+AST-0267,South,SS-010,Distribution Line,50,2003,Operational
+AST-0268,North,SS-009,Circuit Breaker,500,1995,Maintenance
+AST-0269,Central,SS-008,Circuit Breaker,100,2013,Operational
+AST-0270,Central,SS-005,Circuit Breaker,50,2024,Maintenance
+AST-0271,West,SS-002,Distribution Line,100,1998,Operational
+AST-0272,Central,SS-001,Distribution Line,10,2024,Operational
+AST-0273,South,SS-005,Distribution Line,50,2020,Operational
+AST-0274,South,SS-004,Circuit Breaker,50,2024,Operational
+AST-0275,South,SS-008,Transformer,10,2012,Operational
+AST-0276,East,SS-008,Distribution Line,500,2018,Maintenance
+AST-0277,South,SS-008,Transmission Line,10,2005,Degraded
+AST-0278,South,SS-002,Transmission Line,500,2022,Operational
+AST-0279,South,SS-002,Distribution Line,100,2018,Operational
+AST-0280,West,SS-005,Circuit Breaker,250,2020,Operational
+AST-0281,North,SS-005,Distribution Line,10,2003,Operational
+AST-0282,West,SS-009,Distribution Line,500,2015,Operational
+AST-0283,Central,SS-003,Transformer,100,2022,Operational
+AST-0284,Central,SS-007,Transformer,10,2007,Operational
+AST-0285,South,SS-010,Circuit Breaker,100,2010,Maintenance
+AST-0286,Central,SS-010,Circuit Breaker,50,2006,Operational
+AST-0287,East,SS-010,Transmission Line,250,2018,Operational
+AST-0288,East,SS-003,Transformer,50,2002,Operational
+AST-0289,South,SS-002,Circuit Breaker,50,2020,Operational
+AST-0290,Central,SS-009,Transformer,250,2009,Operational
+AST-0291,North,SS-004,Transmission Line,500,2014,Operational
+AST-0292,North,SS-008,Distribution Line,250,2014,Operational
+AST-0293,West,SS-010,Transmission Line,500,2024,Operational
+AST-0294,South,SS-010,Circuit Breaker,250,2000,Operational
+AST-0295,South,SS-008,Distribution Line,250,2003,Operational
+AST-0296,South,SS-008,Transformer,25,2023,Operational
+AST-0297,East,SS-006,Circuit Breaker,50,2015,Maintenance
+AST-0298,Central,SS-006,Distribution Line,250,2000,Maintenance
+AST-0299,South,SS-006,Circuit Breaker,50,1999,Operational
+AST-0300,Central,SS-010,Transformer,10,2000,Operational
+AST-0301,West,SS-009,Circuit Breaker,25,2021,Operational
+AST-0302,East,SS-004,Transformer,250,2020,Maintenance
+AST-0303,North,SS-005,Transmission Line,500,2023,Degraded
+AST-0304,East,SS-004,Transmission Line,25,2016,Operational
+AST-0305,North,SS-001,Transmission Line,25,2016,Operational
+AST-0306,North,SS-002,Transmission Line,500,2000,Operational
+AST-0307,East,SS-004,Distribution Line,50,2009,Operational
+AST-0308,East,SS-010,Transformer,25,2018,Maintenance
+AST-0309,West,SS-002,Circuit Breaker,25,2016,Maintenance
+AST-0310,South,SS-010,Circuit Breaker,25,2002,Operational
+AST-0311,South,SS-006,Circuit Breaker,50,2009,Operational
+AST-0312,East,SS-002,Distribution Line,50,2020,Operational
+AST-0313,West,SS-003,Circuit Breaker,100,2020,Maintenance
+AST-0314,Central,SS-009,Transformer,50,2003,Operational
+AST-0315,North,SS-001,Transmission Line,50,2019,Operational
+AST-0316,Central,SS-003,Circuit Breaker,50,2020,Maintenance
+AST-0317,West,SS-002,Transmission Line,10,2020,Operational
+AST-0318,Central,SS-004,Distribution Line,10,2018,Operational
+AST-0319,North,SS-007,Transformer,500,1997,Operational
+AST-0320,Central,SS-004,Circuit Breaker,10,2023,Maintenance
+AST-0321,North,SS-010,Transmission Line,50,2014,Operational
+AST-0322,North,SS-006,Transformer,100,1997,Operational
+AST-0323,Central,SS-003,Transmission Line,10,2006,Maintenance
+AST-0324,North,SS-001,Transformer,500,2016,Maintenance
+AST-0325,East,SS-005,Transformer,100,2000,Operational
+AST-0326,East,SS-003,Transmission Line,25,2014,Degraded
+AST-0327,West,SS-005,Distribution Line,250,2020,Operational
+AST-0328,South,SS-002,Transformer,10,2009,Operational
+AST-0329,North,SS-006,Transformer,10,2002,Operational
+AST-0330,South,SS-003,Circuit Breaker,250,2003,Maintenance
+AST-0331,Central,SS-008,Transmission Line,100,2019,Maintenance
+AST-0332,Central,SS-003,Distribution Line,50,2010,Operational
+AST-0333,Central,SS-007,Distribution Line,50,2024,Operational
+AST-0334,Central,SS-008,Circuit Breaker,50,2021,Operational
+AST-0335,West,SS-006,Transformer,10,1995,Operational
+AST-0336,North,SS-009,Circuit Breaker,500,2012,Degraded
+AST-0337,North,SS-009,Distribution Line,100,2016,Operational
+AST-0338,North,SS-005,Transformer,250,2018,Maintenance
+AST-0339,West,SS-003,Transmission Line,250,2022,Operational
+AST-0340,Central,SS-010,Transformer,25,2017,Operational
+AST-0341,North,SS-010,Distribution Line,100,1996,Operational
+AST-0342,East,SS-004,Transformer,100,1998,Operational
+AST-0343,East,SS-007,Transmission Line,25,2010,Maintenance
+AST-0344,East,SS-001,Circuit Breaker,10,2009,Operational
+AST-0345,North,SS-003,Transmission Line,250,2001,Degraded
+AST-0346,East,SS-002,Transmission Line,25,1996,Maintenance
+AST-0347,Central,SS-007,Distribution Line,50,2008,Operational
+AST-0348,Central,SS-007,Transformer,100,2021,Operational
+AST-0349,West,SS-003,Transmission Line,100,2008,Operational
+AST-0350,West,SS-009,Distribution Line,50,1995,Operational
+AST-0351,North,SS-003,Distribution Line,250,2024,Operational
+AST-0352,West,SS-010,Transmission Line,25,2016,Degraded
+AST-0353,West,SS-010,Circuit Breaker,500,2023,Operational
+AST-0354,West,SS-004,Circuit Breaker,100,2000,Operational
+AST-0355,South,SS-002,Circuit Breaker,25,2021,Operational
+AST-0356,Central,SS-002,Distribution Line,100,1997,Operational
+AST-0357,South,SS-003,Distribution Line,50,2014,Operational
+AST-0358,West,SS-001,Circuit Breaker,50,2020,Maintenance
+AST-0359,North,SS-005,Distribution Line,50,2003,Operational
+AST-0360,East,SS-006,Distribution Line,100,1998,Operational
+AST-0361,West,SS-003,Transformer,25,2013,Maintenance
+AST-0362,South,SS-004,Circuit Breaker,250,2024,Operational
+AST-0363,West,SS-008,Transformer,100,2000,Operational
+AST-0364,West,SS-001,Transmission Line,250,2006,Operational
+AST-0365,North,SS-004,Transmission Line,25,2013,Operational
+AST-0366,Central,SS-008,Transformer,500,1999,Operational
+AST-0367,South,SS-003,Circuit Breaker,100,2013,Operational
+AST-0368,West,SS-002,Distribution Line,250,1995,Operational
+AST-0369,South,SS-005,Transmission Line,500,1998,Operational
+AST-0370,West,SS-001,Circuit Breaker,10,2015,Operational
+AST-0371,North,SS-002,Circuit Breaker,10,2016,Operational
+AST-0372,East,SS-003,Circuit Breaker,25,2020,Maintenance
+AST-0373,South,SS-005,Circuit Breaker,50,2020,Degraded
+AST-0374,East,SS-008,Circuit Breaker,250,2024,Operational
+AST-0375,South,SS-004,Transformer,100,2020,Operational
+AST-0376,East,SS-004,Distribution Line,100,2006,Operational
+AST-0377,East,SS-005,Transmission Line,250,2001,Operational
+AST-0378,East,SS-009,Circuit Breaker,50,2006,Operational
+AST-0379,West,SS-003,Distribution Line,500,2005,Operational
+AST-0380,East,SS-007,Circuit Breaker,50,2006,Operational
+AST-0381,West,SS-008,Circuit Breaker,250,2022,Operational
+AST-0382,South,SS-005,Transformer,10,1995,Operational
+AST-0383,West,SS-007,Transformer,250,1997,Maintenance
+AST-0384,North,SS-005,Transmission Line,250,2012,Operational
+AST-0385,East,SS-001,Transmission Line,10,2006,Operational
+AST-0386,North,SS-002,Circuit Breaker,10,2021,Operational
+AST-0387,South,SS-003,Transformer,250,2014,Operational
+AST-0388,South,SS-004,Distribution Line,25,1997,Operational
+AST-0389,South,SS-003,Transmission Line,10,1995,Operational
+AST-0390,East,SS-001,Transmission Line,25,2020,Operational
+AST-0391,West,SS-002,Transformer,100,2000,Operational
+AST-0392,South,SS-001,Circuit Breaker,100,2022,Operational
+AST-0393,East,SS-002,Circuit Breaker,100,2000,Operational
+AST-0394,Central,SS-003,Circuit Breaker,25,2008,Operational
+AST-0395,South,SS-009,Transformer,25,2019,Operational
+AST-0396,East,SS-006,Transmission Line,10,2014,Operational
+AST-0397,West,SS-003,Transformer,25,2005,Operational
+AST-0398,North,SS-004,Transmission Line,250,2021,Maintenance
+AST-0399,Central,SS-002,Transmission Line,100,2012,Operational
+AST-0400,Central,SS-006,Transmission Line,100,1998,Operational
+AST-0401,North,SS-004,Transformer,100,2001,Operational
+AST-0402,North,SS-003,Transformer,25,2018,Operational
+AST-0403,North,SS-003,Transmission Line,100,2005,Maintenance
+AST-0404,South,SS-007,Transformer,25,2013,Operational
+AST-0405,East,SS-004,Transformer,250,1998,Operational
+AST-0406,East,SS-001,Circuit Breaker,250,2006,Operational
+AST-0407,Central,SS-009,Circuit Breaker,50,1995,Operational
+AST-0408,Central,SS-003,Circuit Breaker,100,1998,Operational
+AST-0409,Central,SS-001,Transmission Line,100,2003,Operational
+AST-0410,North,SS-010,Distribution Line,50,1999,Operational
+AST-0411,South,SS-005,Circuit Breaker,500,2021,Operational
+AST-0412,North,SS-003,Transmission Line,25,2014,Operational
+AST-0413,West,SS-001,Transformer,250,2012,Operational
+AST-0414,North,SS-009,Transmission Line,100,2021,Operational
+AST-0415,East,SS-005,Distribution Line,250,2019,Operational
+AST-0416,South,SS-002,Transmission Line,50,2005,Operational
+AST-0417,East,SS-005,Transmission Line,10,2012,Operational
+AST-0418,East,SS-008,Transmission Line,25,2024,Operational
+AST-0419,South,SS-008,Circuit Breaker,50,1999,Operational
+AST-0420,East,SS-010,Distribution Line,10,2023,Operational
+AST-0421,North,SS-001,Transmission Line,50,2013,Operational
+AST-0422,East,SS-006,Transmission Line,500,2015,Operational
+AST-0423,East,SS-006,Circuit Breaker,250,2014,Operational
+AST-0424,Central,SS-001,Circuit Breaker,10,1996,Operational
+AST-0425,West,SS-010,Transmission Line,500,2004,Operational
+AST-0426,West,SS-001,Circuit Breaker,500,2008,Operational
+AST-0427,North,SS-008,Transformer,500,2007,Operational
+AST-0428,North,SS-003,Circuit Breaker,500,2024,Maintenance
+AST-0429,North,SS-004,Circuit Breaker,10,2021,Operational
+AST-0430,East,SS-008,Transmission Line,250,1995,Maintenance
+AST-0431,East,SS-004,Transformer,100,2001,Operational
+AST-0432,North,SS-005,Transformer,100,2009,Operational
+AST-0433,Central,SS-004,Circuit Breaker,100,2015,Operational
+AST-0434,North,SS-004,Transformer,250,2006,Operational
+AST-0435,West,SS-009,Circuit Breaker,10,2021,Operational
+AST-0436,North,SS-007,Distribution Line,250,2001,Operational
+AST-0437,Central,SS-005,Distribution Line,25,2003,Operational
+AST-0438,South,SS-003,Circuit Breaker,25,2024,Operational
+AST-0439,West,SS-005,Transmission Line,100,2010,Operational
+AST-0440,West,SS-010,Distribution Line,100,2012,Operational
+AST-0441,South,SS-002,Circuit Breaker,10,2016,Operational
+AST-0442,South,SS-010,Transmission Line,500,2009,Operational
+AST-0443,South,SS-007,Distribution Line,50,2009,Operational
+AST-0444,Central,SS-010,Transformer,10,2019,Operational
+AST-0445,South,SS-006,Transformer,100,1998,Operational
+AST-0446,South,SS-005,Circuit Breaker,50,2017,Operational
+AST-0447,East,SS-007,Distribution Line,50,2022,Operational
+AST-0448,North,SS-008,Circuit Breaker,50,2012,Operational
+AST-0449,West,SS-009,Transmission Line,100,1995,Maintenance
+AST-0450,Central,SS-005,Distribution Line,25,2013,Operational
+AST-0451,South,SS-008,Circuit Breaker,250,2005,Operational
+AST-0452,East,SS-002,Distribution Line,25,2007,Operational
+AST-0453,North,SS-005,Transmission Line,25,2011,Operational
+AST-0454,West,SS-004,Transformer,250,2000,Operational
+AST-0455,Central,SS-005,Transmission Line,25,1995,Operational
+AST-0456,East,SS-010,Circuit Breaker,500,2023,Operational
+AST-0457,South,SS-003,Distribution Line,10,2015,Operational
+AST-0458,West,SS-004,Distribution Line,100,2009,Operational
+AST-0459,West,SS-007,Circuit Breaker,50,2023,Operational
+AST-0460,North,SS-008,Transformer,250,2021,Degraded
+AST-0461,East,SS-007,Transmission Line,500,2021,Operational
+AST-0462,East,SS-001,Distribution Line,500,2023,Operational
+AST-0463,Central,SS-005,Transformer,250,2009,Maintenance
+AST-0464,North,SS-009,Distribution Line,25,1995,Maintenance
+AST-0465,East,SS-001,Distribution Line,500,2015,Operational
+AST-0466,West,SS-001,Distribution Line,250,2009,Operational
+AST-0467,North,SS-009,Distribution Line,50,2023,Operational
+AST-0468,East,SS-009,Transformer,100,2007,Operational
+AST-0469,West,SS-002,Transmission Line,25,2016,Maintenance
+AST-0470,North,SS-001,Circuit Breaker,10,2011,Operational
+AST-0471,West,SS-003,Transmission Line,500,2001,Operational
+AST-0472,East,SS-001,Transmission Line,500,2002,Operational
+AST-0473,Central,SS-007,Distribution Line,100,2017,Operational
+AST-0474,East,SS-009,Transformer,250,2004,Operational
+AST-0475,West,SS-008,Transmission Line,250,2017,Operational
+AST-0476,Central,SS-001,Transmission Line,100,1996,Operational
+AST-0477,Central,SS-004,Transformer,100,2003,Operational
+AST-0478,South,SS-001,Transformer,250,2017,Operational
+AST-0479,South,SS-009,Transformer,250,1997,Operational
+AST-0480,South,SS-005,Distribution Line,50,2022,Operational
+AST-0481,South,SS-002,Distribution Line,10,2011,Degraded
+AST-0482,East,SS-004,Transmission Line,500,2000,Operational
+AST-0483,North,SS-004,Circuit Breaker,50,2010,Operational
+AST-0484,Central,SS-005,Transmission Line,100,2013,Degraded
+AST-0485,North,SS-006,Circuit Breaker,100,2004,Maintenance
+AST-0486,Central,SS-009,Distribution Line,10,2002,Operational
+AST-0487,East,SS-008,Circuit Breaker,250,1995,Operational
+AST-0488,Central,SS-008,Transmission Line,10,2015,Operational
+AST-0489,East,SS-003,Distribution Line,10,2018,Operational
+AST-0490,North,SS-004,Circuit Breaker,500,2021,Operational
+AST-0491,North,SS-004,Distribution Line,25,2023,Maintenance
+AST-0492,East,SS-007,Transmission Line,500,2009,Operational
+AST-0493,East,SS-004,Distribution Line,500,2014,Operational
+AST-0494,West,SS-003,Transmission Line,50,2019,Operational
+AST-0495,Central,SS-010,Distribution Line,50,2020,Maintenance
+AST-0496,West,SS-007,Distribution Line,500,2014,Operational
+AST-0497,East,SS-009,Transformer,500,2019,Maintenance
+AST-0498,West,SS-002,Transmission Line,100,1996,Operational
+AST-0499,South,SS-010,Transformer,25,2001,Operational
+AST-0500,North,SS-007,Circuit Breaker,100,2003,Operational
+AST-0501,South,SS-001,Circuit Breaker,50,2008,Operational
+AST-0502,East,SS-003,Transformer,10,2015,Operational
+AST-0503,South,SS-003,Circuit Breaker,10,2006,Operational
+AST-0504,North,SS-007,Transmission Line,500,2019,Operational
+AST-0505,East,SS-002,Transformer,25,2002,Operational
+AST-0506,South,SS-001,Transmission Line,100,2013,Operational
+AST-0507,North,SS-001,Circuit Breaker,250,2016,Maintenance
+AST-0508,Central,SS-008,Transmission Line,250,2006,Operational
+AST-0509,Central,SS-004,Transformer,10,1996,Operational
+AST-0510,East,SS-005,Circuit Breaker,10,2009,Operational
+AST-0511,West,SS-010,Transformer,25,2008,Operational
+AST-0512,East,SS-001,Distribution Line,100,1999,Operational
+AST-0513,North,SS-002,Circuit Breaker,50,2012,Operational
+AST-0514,North,SS-002,Transmission Line,10,2001,Operational
+AST-0515,East,SS-009,Transformer,250,2023,Operational
+AST-0516,West,SS-010,Circuit Breaker,100,2002,Operational
+AST-0517,Central,SS-007,Circuit Breaker,10,1999,Operational
+AST-0518,Central,SS-001,Transmission Line,25,2001,Operational
+AST-0519,West,SS-003,Distribution Line,25,2018,Operational
+AST-0520,West,SS-006,Circuit Breaker,100,2000,Operational
+AST-0521,West,SS-007,Distribution Line,250,2014,Operational
+AST-0522,South,SS-001,Transformer,100,2011,Operational
+AST-0523,South,SS-005,Transformer,500,2009,Operational
+AST-0524,West,SS-006,Transformer,250,1999,Operational
+AST-0525,West,SS-010,Transformer,25,2005,Operational
+AST-0526,Central,SS-004,Transmission Line,50,1999,Operational
+AST-0527,East,SS-008,Transmission Line,100,2020,Operational
+AST-0528,West,SS-007,Transformer,25,2006,Operational
+AST-0529,Central,SS-009,Distribution Line,100,2019,Operational
+AST-0530,North,SS-001,Circuit Breaker,50,2005,Maintenance
+AST-0531,West,SS-006,Circuit Breaker,100,2015,Operational
+AST-0532,North,SS-007,Circuit Breaker,25,2021,Operational
+AST-0533,West,SS-009,Transformer,500,2012,Operational
+AST-0534,Central,SS-010,Distribution Line,50,2003,Operational
+AST-0535,East,SS-006,Transformer,10,1997,Operational
+AST-0536,Central,SS-010,Circuit Breaker,100,2016,Operational
+AST-0537,South,SS-007,Transformer,10,2000,Operational
+AST-0538,West,SS-006,Circuit Breaker,25,2018,Operational
+AST-0539,West,SS-007,Transmission Line,10,2007,Operational
+AST-0540,East,SS-003,Circuit Breaker,10,2022,Operational
+AST-0541,West,SS-008,Distribution Line,500,2001,Operational
+AST-0542,West,SS-003,Transmission Line,10,2014,Operational
+AST-0543,North,SS-009,Circuit Breaker,250,2023,Operational
+AST-0544,North,SS-010,Transmission Line,50,2009,Operational
+AST-0545,South,SS-007,Distribution Line,25,2000,Operational
+AST-0546,West,SS-010,Circuit Breaker,10,2019,Operational
+AST-0547,West,SS-003,Transmission Line,500,2012,Operational
+AST-0548,South,SS-004,Transformer,50,2005,Operational
+AST-0549,West,SS-004,Circuit Breaker,500,1995,Degraded
+AST-0550,South,SS-003,Transformer,250,2015,Operational
+AST-0551,South,SS-007,Transformer,50,2023,Operational
+AST-0552,South,SS-002,Distribution Line,100,2020,Operational
+AST-0553,East,SS-007,Distribution Line,10,2002,Operational
+AST-0554,West,SS-004,Circuit Breaker,25,2009,Operational
+AST-0555,East,SS-007,Transmission Line,50,2023,Operational
+AST-0556,North,SS-006,Distribution Line,10,1997,Maintenance
+AST-0557,Central,SS-002,Transmission Line,10,2021,Operational
+AST-0558,West,SS-003,Transmission Line,50,2023,Operational
+AST-0559,North,SS-001,Circuit Breaker,100,2013,Operational
+AST-0560,East,SS-004,Distribution Line,10,1996,Operational
+AST-0561,Central,SS-002,Distribution Line,10,2023,Operational
+AST-0562,West,SS-001,Transformer,250,1996,Operational
+AST-0563,West,SS-005,Circuit Breaker,100,2001,Operational
+AST-0564,South,SS-010,Transformer,10,2007,Operational
+AST-0565,South,SS-002,Transformer,250,2020,Operational
+AST-0566,Central,SS-005,Circuit Breaker,100,2009,Operational
+AST-0567,South,SS-001,Distribution Line,10,2004,Operational
+AST-0568,North,SS-007,Distribution Line,25,2013,Operational
+AST-0569,Central,SS-001,Transmission Line,500,2000,Operational
+AST-0570,West,SS-005,Circuit Breaker,500,1997,Maintenance
+AST-0571,East,SS-001,Transformer,10,2022,Operational
+AST-0572,East,SS-002,Transmission Line,10,1999,Operational
+AST-0573,West,SS-002,Distribution Line,250,2017,Operational
+AST-0574,North,SS-008,Transformer,10,2009,Operational
+AST-0575,North,SS-007,Distribution Line,50,2002,Operational
+AST-0576,West,SS-002,Distribution Line,500,2010,Operational
+AST-0577,East,SS-006,Distribution Line,10,2003,Operational
+AST-0578,Central,SS-007,Circuit Breaker,50,2000,Maintenance
+AST-0579,North,SS-002,Circuit Breaker,500,2017,Operational
+AST-0580,South,SS-005,Circuit Breaker,10,1999,Operational
+AST-0581,East,SS-009,Transformer,250,1998,Operational
+AST-0582,East,SS-002,Distribution Line,50,1998,Operational
+AST-0583,Central,SS-005,Distribution Line,500,2022,Maintenance
+AST-0584,East,SS-001,Distribution Line,100,2002,Operational
+AST-0585,West,SS-010,Transformer,500,2007,Operational
+AST-0586,Central,SS-005,Distribution Line,50,1995,Operational
+AST-0587,South,SS-005,Circuit Breaker,50,2014,Operational
+AST-0588,South,SS-010,Distribution Line,100,2002,Operational
+AST-0589,South,SS-001,Circuit Breaker,250,2001,Operational
+AST-0590,North,SS-006,Transformer,500,1996,Operational
+AST-0591,North,SS-002,Circuit Breaker,100,2010,Degraded
+AST-0592,South,SS-006,Distribution Line,25,2017,Operational
+AST-0593,East,SS-010,Circuit Breaker,50,2005,Maintenance
+AST-0594,East,SS-004,Circuit Breaker,250,1999,Operational
+AST-0595,West,SS-007,Transmission Line,500,2023,Operational
+AST-0596,Central,SS-001,Distribution Line,250,2001,Operational
+AST-0597,Central,SS-001,Transformer,500,2014,Operational
+AST-0598,East,SS-001,Transformer,50,2001,Operational
+AST-0599,Central,SS-004,Distribution Line,25,1998,Operational
+AST-0600,East,SS-003,Transmission Line,250,2002,Operational
+AST-0601,East,SS-002,Circuit Breaker,50,2012,Operational
+AST-0602,East,SS-010,Distribution Line,250,2000,Operational
+AST-0603,South,SS-001,Transformer,250,2017,Operational
+AST-0604,Central,SS-005,Transmission Line,250,2024,Operational
+AST-0605,North,SS-002,Circuit Breaker,10,1999,Degraded
+AST-0606,West,SS-004,Transformer,50,2011,Operational
+AST-0607,North,SS-002,Distribution Line,10,2013,Maintenance
+AST-0608,Central,SS-002,Distribution Line,10,2019,Degraded
+AST-0609,South,SS-008,Transmission Line,100,2016,Operational
+AST-0610,South,SS-006,Transmission Line,100,1999,Degraded
+AST-0611,West,SS-005,Transmission Line,250,1996,Degraded
+AST-0612,West,SS-010,Circuit Breaker,50,2007,Operational
+AST-0613,South,SS-009,Distribution Line,100,2007,Degraded
+AST-0614,West,SS-004,Distribution Line,50,2019,Operational
+AST-0615,South,SS-010,Distribution Line,500,2009,Maintenance
+AST-0616,South,SS-005,Transformer,25,2014,Degraded
+AST-0617,North,SS-009,Circuit Breaker,10,2010,Operational
+AST-0618,Central,SS-001,Transformer,100,2010,Operational
+AST-0619,South,SS-006,Circuit Breaker,100,2021,Operational
+AST-0620,East,SS-008,Transmission Line,10,2024,Operational
+AST-0621,Central,SS-005,Distribution Line,25,2017,Operational
+AST-0622,South,SS-001,Transmission Line,500,2007,Operational
+AST-0623,West,SS-004,Transformer,100,2009,Operational
+AST-0624,East,SS-004,Distribution Line,500,1998,Operational
+AST-0625,Central,SS-008,Circuit Breaker,100,2015,Maintenance
+AST-0626,Central,SS-009,Distribution Line,10,2010,Degraded
+AST-0627,West,SS-002,Circuit Breaker,10,2001,Operational
+AST-0628,West,SS-006,Circuit Breaker,50,2002,Operational
+AST-0629,North,SS-001,Distribution Line,100,2012,Operational
+AST-0630,East,SS-005,Transmission Line,25,2002,Maintenance
+AST-0631,Central,SS-003,Transmission Line,25,2018,Operational
+AST-0632,Central,SS-009,Transmission Line,10,2024,Maintenance
+AST-0633,East,SS-006,Transformer,250,1996,Operational
+AST-0634,Central,SS-003,Transformer,50,1999,Operational
+AST-0635,West,SS-004,Transformer,500,2014,Operational
+AST-0636,Central,SS-005,Transformer,10,2004,Maintenance
+AST-0637,West,SS-010,Transformer,250,2001,Operational
+AST-0638,East,SS-007,Transmission Line,10,2001,Operational
+AST-0639,East,SS-003,Circuit Breaker,50,2012,Operational
+AST-0640,West,SS-009,Transformer,25,2010,Operational
+AST-0641,West,SS-002,Transformer,10,1998,Operational
+AST-0642,Central,SS-005,Transformer,25,2022,Operational
+AST-0643,East,SS-004,Distribution Line,50,1995,Operational
+AST-0644,South,SS-002,Distribution Line,500,2001,Operational
+AST-0645,East,SS-010,Circuit Breaker,50,1996,Operational
+AST-0646,Central,SS-001,Distribution Line,100,2004,Operational
+AST-0647,East,SS-002,Transformer,10,1995,Operational
+AST-0648,South,SS-004,Distribution Line,500,2020,Operational
+AST-0649,Central,SS-003,Transformer,500,2011,Operational
+AST-0650,West,SS-008,Circuit Breaker,100,1995,Maintenance
+AST-0651,Central,SS-009,Transmission Line,500,2024,Operational
+AST-0652,South,SS-005,Transmission Line,100,2013,Operational
+AST-0653,West,SS-010,Circuit Breaker,500,2006,Operational
+AST-0654,North,SS-001,Transformer,250,2022,Operational
+AST-0655,South,SS-005,Transformer,25,2020,Operational
+AST-0656,Central,SS-008,Transmission Line,25,2010,Operational
+AST-0657,Central,SS-004,Transformer,100,2010,Operational
+AST-0658,South,SS-005,Distribution Line,100,2011,Operational
+AST-0659,West,SS-001,Transformer,500,2007,Operational
+AST-0660,East,SS-007,Circuit Breaker,25,2008,Operational
+AST-0661,North,SS-002,Transmission Line,25,2024,Operational
+AST-0662,South,SS-010,Transmission Line,250,2015,Operational
+AST-0663,West,SS-004,Transformer,250,2013,Operational
+AST-0664,North,SS-006,Distribution Line,25,2013,Operational
+AST-0665,West,SS-007,Circuit Breaker,500,2008,Operational
+AST-0666,North,SS-010,Transmission Line,50,2017,Maintenance
+AST-0667,West,SS-010,Circuit Breaker,500,2017,Operational
+AST-0668,West,SS-006,Transformer,100,2005,Operational
+AST-0669,Central,SS-004,Distribution Line,500,1999,Maintenance
+AST-0670,East,SS-002,Distribution Line,10,2003,Operational
+AST-0671,North,SS-010,Transmission Line,10,2022,Operational
+AST-0672,East,SS-010,Circuit Breaker,10,2006,Operational
+AST-0673,East,SS-007,Transmission Line,250,2004,Operational
+AST-0674,West,SS-007,Circuit Breaker,25,1997,Maintenance
+AST-0675,East,SS-010,Transformer,500,1995,Operational
+AST-0676,Central,SS-007,Distribution Line,500,1999,Operational
+AST-0677,West,SS-001,Distribution Line,500,2010,Operational
+AST-0678,North,SS-003,Circuit Breaker,100,2022,Operational
+AST-0679,South,SS-003,Circuit Breaker,50,2007,Operational
+AST-0680,South,SS-006,Transmission Line,500,2008,Maintenance
+AST-0681,North,SS-006,Transmission Line,50,2021,Operational
+AST-0682,North,SS-010,Distribution Line,10,1995,Degraded
+AST-0683,Central,SS-002,Distribution Line,250,1995,Operational
+AST-0684,North,SS-007,Circuit Breaker,10,2003,Operational
+AST-0685,South,SS-008,Transmission Line,25,2020,Maintenance
+AST-0686,West,SS-003,Circuit Breaker,500,2009,Degraded
+AST-0687,South,SS-007,Distribution Line,250,1998,Operational
+AST-0688,West,SS-002,Circuit Breaker,50,2001,Operational
+AST-0689,North,SS-001,Transformer,250,2012,Operational
+AST-0690,South,SS-006,Circuit Breaker,500,2001,Operational
+AST-0691,Central,SS-002,Transmission Line,250,1995,Operational
+AST-0692,West,SS-004,Transmission Line,100,2011,Operational
+AST-0693,West,SS-009,Transformer,25,2005,Operational
+AST-0694,North,SS-001,Transformer,50,2016,Operational
+AST-0695,South,SS-003,Circuit Breaker,10,2004,Operational
+AST-0696,South,SS-007,Distribution Line,250,2002,Operational
+AST-0697,North,SS-004,Circuit Breaker,500,2000,Operational
+AST-0698,East,SS-002,Transmission Line,25,1995,Maintenance
+AST-0699,North,SS-006,Distribution Line,25,2015,Degraded
+AST-0700,East,SS-003,Distribution Line,50,2010,Operational
+AST-0701,South,SS-008,Circuit Breaker,100,1998,Maintenance
+AST-0702,North,SS-002,Transformer,50,2006,Operational
+AST-0703,South,SS-006,Distribution Line,250,2016,Operational
+AST-0704,West,SS-006,Transformer,500,2022,Operational
+AST-0705,North,SS-003,Circuit Breaker,100,2004,Operational
+AST-0706,West,SS-010,Circuit Breaker,50,2000,Operational
+AST-0707,South,SS-008,Transformer,25,2023,Maintenance
+AST-0708,East,SS-004,Distribution Line,250,2001,Maintenance
+AST-0709,Central,SS-005,Distribution Line,500,1998,Operational
+AST-0710,West,SS-003,Distribution Line,500,2008,Operational
+AST-0711,East,SS-008,Transmission Line,50,2009,Maintenance
+AST-0712,South,SS-004,Transmission Line,25,2010,Operational
+AST-0713,South,SS-008,Transformer,250,1998,Degraded
+AST-0714,West,SS-003,Circuit Breaker,250,2009,Operational
+AST-0715,South,SS-001,Transformer,500,2003,Degraded
+AST-0716,South,SS-002,Transmission Line,25,2004,Operational
+AST-0717,East,SS-006,Transmission Line,100,2008,Operational
+AST-0718,South,SS-009,Transmission Line,10,2016,Operational
+AST-0719,East,SS-009,Transmission Line,25,2010,Operational
+AST-0720,West,SS-004,Distribution Line,250,2018,Operational
+AST-0721,West,SS-002,Transformer,50,2016,Operational
+AST-0722,North,SS-001,Transformer,50,2022,Operational
+AST-0723,East,SS-001,Transformer,100,2018,Operational
+AST-0724,Central,SS-005,Distribution Line,10,1995,Maintenance
+AST-0725,West,SS-004,Transformer,100,2006,Operational
+AST-0726,Central,SS-008,Transmission Line,500,2015,Maintenance
+AST-0727,North,SS-003,Transformer,100,2003,Operational
+AST-0728,North,SS-001,Circuit Breaker,500,2001,Operational
+AST-0729,South,SS-008,Transformer,50,2004,Operational
+AST-0730,West,SS-006,Transformer,100,2007,Operational
+AST-0731,North,SS-007,Transformer,10,2012,Maintenance
+AST-0732,North,SS-001,Transformer,25,2002,Operational
+AST-0733,North,SS-004,Transformer,500,2000,Operational
+AST-0734,East,SS-010,Circuit Breaker,500,2009,Operational
+AST-0735,Central,SS-006,Transmission Line,50,2024,Operational
+AST-0736,East,SS-010,Transmission Line,250,1996,Operational
+AST-0737,West,SS-009,Distribution Line,10,2005,Operational
+AST-0738,Central,SS-009,Transmission Line,100,1999,Operational
+AST-0739,South,SS-005,Circuit Breaker,50,2008,Operational
+AST-0740,South,SS-001,Distribution Line,500,1998,Operational
+AST-0741,South,SS-006,Transmission Line,50,2009,Operational
+AST-0742,West,SS-006,Transmission Line,250,2021,Operational
+AST-0743,South,SS-007,Transmission Line,100,2009,Maintenance
+AST-0744,South,SS-010,Distribution Line,100,2006,Operational
+AST-0745,North,SS-010,Distribution Line,50,2015,Operational
+AST-0746,East,SS-004,Circuit Breaker,10,2008,Operational
+AST-0747,North,SS-002,Distribution Line,500,2020,Operational
+AST-0748,East,SS-009,Transformer,25,2011,Maintenance
+AST-0749,Central,SS-006,Circuit Breaker,500,2020,Operational
+AST-0750,South,SS-009,Transmission Line,50,2002,Operational
+AST-0751,West,SS-009,Circuit Breaker,500,2013,Operational
+AST-0752,East,SS-003,Transformer,25,1998,Operational
+AST-0753,West,SS-008,Circuit Breaker,10,2022,Degraded
+AST-0754,North,SS-001,Transmission Line,500,2017,Operational
+AST-0755,South,SS-001,Transformer,100,2001,Operational
+AST-0756,South,SS-002,Circuit Breaker,10,2000,Operational
+AST-0757,North,SS-004,Circuit Breaker,10,2010,Operational
+AST-0758,East,SS-002,Distribution Line,10,2000,Operational
+AST-0759,West,SS-007,Distribution Line,250,2011,Operational
+AST-0760,West,SS-005,Distribution Line,50,2017,Operational
+AST-0761,Central,SS-010,Distribution Line,25,1998,Operational
+AST-0762,East,SS-010,Circuit Breaker,500,2006,Operational
+AST-0763,East,SS-002,Circuit Breaker,10,2004,Degraded
+AST-0764,West,SS-009,Distribution Line,25,2005,Operational
+AST-0765,Central,SS-002,Circuit Breaker,50,2017,Operational
+AST-0766,North,SS-002,Transformer,10,2021,Operational
+AST-0767,South,SS-005,Distribution Line,10,2016,Operational
+AST-0768,North,SS-008,Transformer,50,2015,Operational
+AST-0769,West,SS-002,Distribution Line,10,2009,Operational
+AST-0770,North,SS-008,Transformer,50,2024,Operational
+AST-0771,Central,SS-003,Distribution Line,25,2016,Maintenance
+AST-0772,West,SS-001,Circuit Breaker,25,2016,Operational
+AST-0773,North,SS-003,Transformer,500,2005,Operational
+AST-0774,East,SS-007,Circuit Breaker,500,2013,Degraded
+AST-0775,Central,SS-008,Circuit Breaker,10,2009,Operational
+AST-0776,North,SS-005,Circuit Breaker,25,2007,Operational
+AST-0777,North,SS-005,Transmission Line,100,2015,Operational
+AST-0778,Central,SS-005,Transmission Line,10,2014,Operational
+AST-0779,Central,SS-008,Transmission Line,250,2024,Operational
+AST-0780,East,SS-001,Transformer,25,2008,Operational
+AST-0781,South,SS-005,Transformer,500,2005,Operational
+AST-0782,South,SS-006,Distribution Line,500,2012,Operational
+AST-0783,East,SS-003,Distribution Line,100,2009,Operational
+AST-0784,Central,SS-001,Transformer,25,2001,Operational
+AST-0785,West,SS-003,Distribution Line,500,2021,Operational
+AST-0786,East,SS-005,Distribution Line,25,2014,Operational
+AST-0787,East,SS-006,Transmission Line,10,2012,Operational
+AST-0788,West,SS-002,Distribution Line,25,2020,Operational
+AST-0789,West,SS-007,Transmission Line,25,2016,Operational
+AST-0790,North,SS-004,Distribution Line,10,2002,Operational
+AST-0791,West,SS-004,Transmission Line,10,2017,Operational
+AST-0792,East,SS-005,Transformer,25,2009,Operational
+AST-0793,South,SS-008,Transformer,100,2017,Degraded
+AST-0794,West,SS-010,Distribution Line,250,2010,Operational
+AST-0795,North,SS-008,Distribution Line,250,1998,Operational
+AST-0796,Central,SS-009,Distribution Line,10,2008,Operational
+AST-0797,South,SS-010,Transformer,10,2008,Operational
+AST-0798,North,SS-001,Transmission Line,100,2022,Degraded
+AST-0799,Central,SS-007,Transmission Line,100,2017,Operational
+AST-0800,Central,SS-003,Circuit Breaker,100,2006,Degraded
+AST-0801,West,SS-006,Transmission Line,100,2001,Operational
+AST-0802,South,SS-003,Distribution Line,25,2008,Degraded
+AST-0803,East,SS-009,Circuit Breaker,100,2014,Operational
+AST-0804,North,SS-002,Distribution Line,500,2017,Operational
+AST-0805,West,SS-006,Circuit Breaker,500,2014,Operational
+AST-0806,Central,SS-002,Transformer,500,2024,Operational
+AST-0807,Central,SS-010,Distribution Line,100,2003,Operational
+AST-0808,North,SS-008,Transmission Line,250,2002,Operational
+AST-0809,South,SS-010,Transformer,50,1997,Operational
+AST-0810,North,SS-009,Transmission Line,500,2010,Operational
+AST-0811,Central,SS-002,Distribution Line,25,2022,Operational
+AST-0812,South,SS-002,Transmission Line,10,2009,Degraded
+AST-0813,South,SS-003,Transformer,25,1996,Operational
+AST-0814,Central,SS-010,Circuit Breaker,10,1998,Operational
+AST-0815,East,SS-001,Transformer,25,2024,Operational
+AST-0816,South,SS-002,Transformer,250,2003,Operational
+AST-0817,South,SS-001,Distribution Line,250,1999,Maintenance
+AST-0818,East,SS-002,Distribution Line,50,1999,Maintenance
+AST-0819,South,SS-002,Transmission Line,100,2017,Operational
+AST-0820,Central,SS-001,Distribution Line,25,2019,Degraded
+AST-0821,Central,SS-010,Distribution Line,250,2010,Operational
+AST-0822,South,SS-001,Transmission Line,100,2016,Operational
+AST-0823,South,SS-001,Circuit Breaker,500,2022,Operational
+AST-0824,East,SS-004,Transformer,25,2010,Operational
+AST-0825,North,SS-006,Circuit Breaker,250,2002,Operational
+AST-0826,North,SS-010,Distribution Line,500,2012,Operational
+AST-0827,North,SS-003,Transmission Line,250,2001,Operational
+AST-0828,East,SS-009,Transformer,10,2009,Operational
+AST-0829,East,SS-005,Transmission Line,100,1999,Operational
+AST-0830,East,SS-003,Transmission Line,250,2018,Operational
+AST-0831,Central,SS-001,Distribution Line,500,2023,Operational
+AST-0832,East,SS-002,Distribution Line,100,2008,Operational
+AST-0833,East,SS-010,Transmission Line,25,2020,Operational
+AST-0834,West,SS-009,Distribution Line,100,1997,Operational
+AST-0835,East,SS-010,Circuit Breaker,50,1996,Operational
+AST-0836,South,SS-008,Circuit Breaker,250,2002,Operational
+AST-0837,North,SS-001,Circuit Breaker,500,2021,Operational
+AST-0838,East,SS-008,Circuit Breaker,25,2009,Degraded
+AST-0839,North,SS-008,Distribution Line,500,2017,Operational
+AST-0840,East,SS-001,Circuit Breaker,100,1999,Operational
+AST-0841,Central,SS-003,Transformer,250,2005,Operational
+AST-0842,South,SS-008,Distribution Line,50,2012,Operational
+AST-0843,Central,SS-007,Transmission Line,25,2020,Operational
+AST-0844,West,SS-005,Transformer,50,2016,Operational
+AST-0845,West,SS-010,Transformer,10,2001,Operational
+AST-0846,West,SS-009,Circuit Breaker,10,1995,Operational
+AST-0847,South,SS-004,Transformer,10,2000,Maintenance
+AST-0848,North,SS-002,Circuit Breaker,10,2018,Operational
+AST-0849,Central,SS-009,Transmission Line,10,1997,Operational
+AST-0850,East,SS-008,Transmission Line,50,2006,Maintenance
+AST-0851,South,SS-003,Circuit Breaker,100,2006,Operational
+AST-0852,Central,SS-004,Circuit Breaker,250,2006,Operational
+AST-0853,East,SS-009,Circuit Breaker,10,2017,Operational
+AST-0854,East,SS-008,Transformer,25,2009,Maintenance
+AST-0855,West,SS-002,Circuit Breaker,100,2005,Operational
+AST-0856,South,SS-001,Transmission Line,100,2008,Operational
+AST-0857,Central,SS-006,Transformer,500,2023,Operational
+AST-0858,Central,SS-001,Distribution Line,25,2015,Operational
+AST-0859,South,SS-010,Transformer,50,2018,Degraded
+AST-0860,Central,SS-003,Transformer,10,2010,Operational
+AST-0861,North,SS-004,Circuit Breaker,100,2017,Operational
+AST-0862,East,SS-003,Transmission Line,25,2015,Operational
+AST-0863,South,SS-002,Circuit Breaker,10,1995,Operational
+AST-0864,South,SS-005,Transmission Line,500,2024,Operational
+AST-0865,West,SS-003,Transformer,500,2018,Operational
+AST-0866,North,SS-003,Circuit Breaker,100,2023,Operational
+AST-0867,North,SS-002,Distribution Line,50,1995,Operational
+AST-0868,East,SS-007,Distribution Line,500,2018,Operational
+AST-0869,West,SS-009,Transformer,25,2022,Operational
+AST-0870,South,SS-001,Distribution Line,25,2007,Operational
+AST-0871,South,SS-009,Transformer,500,2013,Operational
+AST-0872,West,SS-009,Distribution Line,250,2019,Operational
+AST-0873,South,SS-005,Distribution Line,50,2006,Operational
+AST-0874,East,SS-006,Distribution Line,50,2000,Operational
+AST-0875,North,SS-009,Transformer,50,2001,Operational
+AST-0876,West,SS-005,Transformer,25,2017,Operational
+AST-0877,West,SS-002,Distribution Line,25,2022,Operational
+AST-0878,West,SS-005,Transformer,10,2006,Operational
+AST-0879,North,SS-009,Transmission Line,500,2020,Operational
+AST-0880,Central,SS-005,Distribution Line,250,2015,Operational
+AST-0881,East,SS-002,Transmission Line,250,2018,Operational
+AST-0882,East,SS-003,Transformer,50,2010,Operational
+AST-0883,South,SS-002,Transformer,500,2021,Operational
+AST-0884,East,SS-007,Distribution Line,100,1995,Operational
+AST-0885,West,SS-004,Circuit Breaker,500,2009,Operational
+AST-0886,East,SS-008,Transmission Line,50,2023,Operational
+AST-0887,East,SS-002,Transformer,500,2017,Operational
+AST-0888,North,SS-007,Transmission Line,100,2021,Operational
+AST-0889,North,SS-006,Distribution Line,100,2021,Operational
+AST-0890,West,SS-010,Transformer,500,2024,Operational
+AST-0891,South,SS-005,Distribution Line,500,2019,Operational
+AST-0892,North,SS-009,Transformer,50,2002,Maintenance
+AST-0893,Central,SS-006,Transmission Line,10,2002,Operational
+AST-0894,North,SS-006,Transformer,10,2009,Operational
+AST-0895,Central,SS-004,Distribution Line,100,1998,Operational
+AST-0896,East,SS-005,Transformer,25,2013,Operational
+AST-0897,South,SS-005,Transformer,50,2013,Operational
+AST-0898,East,SS-002,Distribution Line,100,2006,Operational
+AST-0899,West,SS-004,Transmission Line,10,2019,Operational
+AST-0900,South,SS-008,Circuit Breaker,500,2023,Operational
+AST-0901,East,SS-008,Circuit Breaker,500,1998,Operational
+AST-0902,West,SS-004,Transformer,10,2001,Operational
+AST-0903,North,SS-009,Circuit Breaker,25,1995,Operational
+AST-0904,West,SS-010,Circuit Breaker,50,2021,Operational
+AST-0905,West,SS-003,Distribution Line,250,2020,Degraded
+AST-0906,West,SS-008,Distribution Line,50,2023,Operational
+AST-0907,East,SS-007,Transmission Line,500,2006,Maintenance
+AST-0908,East,SS-006,Circuit Breaker,250,2000,Operational
+AST-0909,North,SS-006,Transmission Line,50,2008,Operational
+AST-0910,North,SS-009,Transmission Line,100,2020,Operational
+AST-0911,South,SS-006,Transformer,250,2021,Operational
+AST-0912,West,SS-010,Distribution Line,500,2021,Operational
+AST-0913,Central,SS-008,Transformer,250,2007,Operational
+AST-0914,West,SS-009,Circuit Breaker,500,1996,Operational
+AST-0915,East,SS-002,Transmission Line,10,2001,Operational
+AST-0916,East,SS-004,Circuit Breaker,50,2020,Operational
+AST-0917,Central,SS-010,Circuit Breaker,250,2011,Operational
+AST-0918,Central,SS-007,Circuit Breaker,100,2018,Operational
+AST-0919,East,SS-009,Transformer,100,1996,Maintenance
+AST-0920,North,SS-003,Transformer,250,2019,Operational
+AST-0921,East,SS-008,Transmission Line,25,1995,Operational
+AST-0922,West,SS-001,Transformer,10,2014,Operational
+AST-0923,North,SS-002,Transformer,250,2018,Operational
+AST-0924,Central,SS-007,Transmission Line,50,1998,Operational
+AST-0925,North,SS-003,Transformer,10,2003,Operational
+AST-0926,Central,SS-008,Transformer,50,2014,Operational
+AST-0927,North,SS-009,Distribution Line,10,2024,Operational
+AST-0928,East,SS-001,Circuit Breaker,100,2016,Operational
+AST-0929,Central,SS-010,Distribution Line,50,2011,Operational
+AST-0930,West,SS-007,Transformer,250,2010,Maintenance
+AST-0931,West,SS-003,Transformer,25,2017,Operational
+AST-0932,West,SS-002,Transformer,10,2018,Degraded
+AST-0933,East,SS-008,Circuit Breaker,25,2007,Maintenance
+AST-0934,North,SS-001,Circuit Breaker,100,2019,Operational
+AST-0935,West,SS-010,Transmission Line,10,2019,Operational
+AST-0936,North,SS-008,Distribution Line,25,2002,Operational
+AST-0937,West,SS-006,Transmission Line,10,2013,Maintenance
+AST-0938,Central,SS-004,Circuit Breaker,25,1996,Operational
+AST-0939,North,SS-007,Transmission Line,25,2003,Operational
+AST-0940,East,SS-003,Distribution Line,100,2000,Operational
+AST-0941,South,SS-004,Transformer,500,2023,Operational
+AST-0942,South,SS-002,Transformer,100,2007,Operational
+AST-0943,Central,SS-008,Circuit Breaker,50,2015,Operational
+AST-0944,East,SS-006,Transformer,250,2015,Operational
+AST-0945,South,SS-010,Circuit Breaker,500,1997,Operational
+AST-0946,North,SS-002,Circuit Breaker,500,2023,Operational
+AST-0947,South,SS-003,Transformer,50,2008,Operational
+AST-0948,North,SS-006,Transformer,100,2008,Operational
+AST-0949,South,SS-004,Transmission Line,500,2006,Operational
+AST-0950,East,SS-005,Distribution Line,25,2009,Operational
+AST-0951,East,SS-010,Transmission Line,10,2013,Operational
+AST-0952,North,SS-009,Distribution Line,500,1998,Operational
+AST-0953,South,SS-009,Distribution Line,500,2024,Operational
+AST-0954,West,SS-009,Circuit Breaker,100,1998,Operational
+AST-0955,Central,SS-007,Distribution Line,25,2001,Maintenance
+AST-0956,South,SS-002,Distribution Line,50,2009,Maintenance
+AST-0957,East,SS-008,Transformer,500,2008,Operational
+AST-0958,West,SS-010,Transformer,100,2006,Operational
+AST-0959,East,SS-010,Circuit Breaker,50,2001,Operational
+AST-0960,West,SS-006,Distribution Line,250,2009,Operational
+AST-0961,East,SS-009,Distribution Line,100,1997,Operational
+AST-0962,East,SS-005,Transformer,25,2002,Operational
+AST-0963,North,SS-003,Distribution Line,50,2016,Operational
+AST-0964,Central,SS-001,Transmission Line,50,2006,Operational
+AST-0965,North,SS-010,Distribution Line,10,2020,Operational
+AST-0966,South,SS-002,Transformer,250,2005,Operational
+AST-0967,Central,SS-006,Distribution Line,500,2021,Operational
+AST-0968,Central,SS-007,Transmission Line,10,2003,Operational
+AST-0969,Central,SS-005,Circuit Breaker,10,1997,Operational
+AST-0970,South,SS-004,Circuit Breaker,10,2007,Operational
+AST-0971,Central,SS-004,Transformer,25,2011,Degraded
+AST-0972,North,SS-006,Transmission Line,25,2007,Operational
+AST-0973,South,SS-006,Transformer,25,2024,Operational
+AST-0974,East,SS-002,Circuit Breaker,25,2023,Operational
+AST-0975,South,SS-008,Distribution Line,500,2003,Operational
+AST-0976,Central,SS-006,Distribution Line,100,2021,Operational
+AST-0977,East,SS-005,Circuit Breaker,50,2014,Operational
+AST-0978,South,SS-003,Transformer,25,2018,Operational
+AST-0979,East,SS-006,Transmission Line,500,2010,Operational
+AST-0980,East,SS-010,Circuit Breaker,50,2022,Operational
+AST-0981,West,SS-003,Transformer,100,2011,Operational
+AST-0982,West,SS-006,Transformer,25,2014,Operational
+AST-0983,West,SS-004,Transmission Line,500,2009,Operational
+AST-0984,East,SS-007,Transmission Line,100,2005,Operational
+AST-0985,North,SS-008,Circuit Breaker,25,2020,Operational
+AST-0986,West,SS-003,Transformer,10,2016,Operational
+AST-0987,East,SS-001,Distribution Line,10,2003,Operational
+AST-0988,South,SS-001,Transformer,10,2001,Operational
+AST-0989,North,SS-009,Distribution Line,500,2011,Operational
+AST-0990,West,SS-009,Circuit Breaker,50,2003,Operational
+AST-0991,North,SS-005,Distribution Line,50,2002,Operational
+AST-0992,Central,SS-006,Circuit Breaker,100,2023,Degraded
+AST-0993,West,SS-009,Circuit Breaker,25,2002,Operational
+AST-0994,East,SS-010,Circuit Breaker,100,2010,Operational
+AST-0995,South,SS-001,Distribution Line,500,2016,Operational
+AST-0996,West,SS-008,Circuit Breaker,50,2004,Operational
+AST-0997,Central,SS-006,Transformer,250,2005,Operational
+AST-0998,North,SS-003,Distribution Line,50,2010,Operational
+AST-0999,West,SS-006,Transformer,500,2008,Operational
+AST-1000,East,SS-006,Circuit Breaker,250,2019,Operational

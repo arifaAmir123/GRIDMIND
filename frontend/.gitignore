@@ -1,0 +1,21 @@
+@"
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.joblib
+*.pkl
+
+data/raw/
+data/processed/
+
+seaweed-data/
+models/artifacts/
+
+.vscode/
+.idea/
+
+Thumbs.db
+.DS_Store
+"@ | Set-Content .gitignore

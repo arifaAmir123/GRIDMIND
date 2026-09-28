@@ -1,0 +1,6 @@
+Dataset,Rows,Columns,Missing_Values,Duplicate_Rows,Memory_MB
+smart_meter,500000,9,0,0,147.18
+weather,17544,8,0,0,3.11
+generation,17544,6,0,0,1.94
+grid_events,5000,7,0,0,1.92
+grid_assets,1000,7,0,0,0.33

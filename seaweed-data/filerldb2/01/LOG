@@ -1,0 +1,16 @@
+=============== Sep 27, 2026 (UTC) ===============
+09:22:26.513380 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+09:22:26.527819 db@open opening
+09:22:26.532292 version@stat F·[] S·0B[] Sc·[]
+09:22:26.538218 db@janitor F·2 G·0
+09:22:26.538820 db@open done T·10.30672ms
+=============== Sep 27, 2026 (UTC) ===============
+09:33:18.745443 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+09:33:18.754295 version@stat F·[] S·0B[] Sc·[]
+09:33:18.755239 db@open opening
+09:33:18.756982 journal@recovery F·1
+09:33:18.772882 journal@recovery recovering @1
+09:33:18.784790 memdb@flush created L0@2 N·3 S·354B "Q@\xee..log,v3":"ff\xcd..ics,v2"
+09:33:18.791737 version@stat F·[1] S·354B[354B] Sc·[0.25]
+09:33:18.825184 db@janitor F·3 G·0
+09:33:18.825791 db@open done T·69.888356ms
